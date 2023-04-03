@@ -1,0 +1,127 @@
+.custom-logo-cuppon img {
+  height: 25px;
+  width: 86px;
+}
+
+.custom-navbar {
+  background-color: #28a745 !important;
+  font-family: "Roboto", sans-serif;
+}
+
+.custom-link-navbar {
+  display: flex;
+  justify-content: end;
+}
+
+.custom-link-navbar a,
+ul,
+li {
+  color: #fff !important;
+}
+
+/* aqui modificare los grid y las cards */
+
+.custom-grid {
+  display: flex;
+  justify-content: center;
+}
+
+/* aqui modificare el texto de las cards */
+
+.text-down-of-the-card {
+  display: block;
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  color: #707070;
+  font-weight: 300;
+}
+
+.icon-p {
+  display: flex;
+  font-size: 11px;
+}
+
+i {
+  color: #707070;
+  font-size: 9px;
+  margin-top: 3px;
+}
+
+.cuppon-margin {
+  margin-bottom: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.custom-address {
+  padding-left: 3px;
+  margin-bottom: 5px;
+}
+
+.custom-hr {
+  margin: 0;
+}
+
+.prices {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.custom-price {
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 0;
+  color: #707070;
+}
+
+.custom-price-two {
+  font-weight: 500;
+  font-size: 21px;
+  color: #28a745;
+  margin-bottom: 15px;
+  padding-left: 8px;
+}
+
+/* Aqui modificare el "FORM" */
+
+.form-custom {
+  font-family: "Roboto", sans-serif;
+  margin-top: 35px;
+  background-color: #28a745;
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+.custom-form-p {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.custom-button {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+/* AQUI MODIFICARE EL LOGO BLACK CUPPON */
+.black-custom-logo {
+  display: flex;
+  justify-content: center;
+}
+.black-custom-logo img {
+  height: 24pt;
+  width: 82pt;
+}
+
+.footer-custom {
+  display: flex;
+  justify-content: center;
+  color: #707070;
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+  padding-bottom: 10px;
+}
